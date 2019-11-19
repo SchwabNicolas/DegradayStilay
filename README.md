@@ -1,2 +1,2 @@
 # DegradayStilay
-A beginner gradient for Processing.
+A gradient changing over time. 
